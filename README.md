@@ -1,2 +1,9 @@
 # Koala-Sightings-and-Tweets
-Identify Koala hotpots around Brisbane, QLD and potential twitter accounts to promote koala tours
+##Dataset
+
+##Models
+
+##Conclusions
+
+##Analysis Notebook
+It is suggested to view the notebook using [https://nbviewer.org/github/marcusNGD/Koala-Sightings-and-Tweets/blob/main/Marcus_Koala_Dataset.ipynb](THIS LINK) as GitHub only displays a preview of the notebook and is unable to load the mapping component.
