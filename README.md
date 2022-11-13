@@ -11,7 +11,7 @@ The client (unit tutors) also tasked us to determine the feasibility of promotin
 - Folium: this library was utilisedin to easily visualisze data on an interactive leaflet map with markers indicating positions on spots of interests
 
 ##Conclusions
-*Sightings analysis*
+**Sightings analysis**
 - Based on the visualization of koala occurences from 2020 to the present above, it is clear that koalas can be found reliably around Brisbane to support a koala spotting tour. Areas that have a high rate of koala occurences that prove to be reliable locations for koala tours include:
   - Toohey Area
     - Toohey Forest-Mayne Estate
@@ -36,7 +36,7 @@ The client (unit tutors) also tasked us to determine the feasibility of promotin
   - Henry Ziegenfusz Park 
 - In addition, since all these occurences are from 2020-present, the occurence are as up-to-date as possible, making them reliable sources of information to support tour locations
 
-*Twitter Question*
+**Twitter Question**
 - Since Twitter API is limited to retrieving the most recent 100 tweets and only tweets from the past 7 days. The insight will be generalized to provide insight and reasons to support the reason why the 3 users with the highest follower count should be selected for advertisement and how they were found.
 - It is recommended for the 3 Twitter accounts that have been analysed, identified and visualized above to be potential promoters for the business. With a higher amount of of followers, promoters can influence more people and reach a wider customer base, allowing the tour to reach more audiences.
 - The 3 potential promoters were found based on the condition that:
@@ -46,7 +46,7 @@ The client (unit tutors) also tasked us to determine the feasibility of promotin
 - 3 most followed accounts have been selected as the number three is a comprehensive number to select the 3 most followed influencers that enables the business to identify a variety of different promoters and select from them
 With the analysis, the business is also able to identify potential competitors in the market based on the Twitter accounts ID name and their account description if they are a zoo/wild life tour business based on their Twitter ID and user description in the output above in Analysis
 
-*Limitations* 
+**Limitations**
 - Limitations of the Twitter Analysis:
   - Twitter API is limited to pulling a maximum of 100 tweets per extraction
   - 100 tweets is not a substantial number of data to support justifcations and recommendations
