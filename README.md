@@ -3,14 +3,14 @@ This analysis is part of my personal assessment item for IAB303 Data analytics f
 Using the QDAVI analysis cycle (Question analysis - Data - Analysis - Visualising - Insights), I was able to gain insights on Koala sightings across Brisbane. 
 The client (unit tutors) also tasked us to determine the feasibility of promoting a koala tour with social media influencers on Twitter. Through the twitter tweets analysis on the hashtag #koala, I was also be to identify potential competitors based on their handle name.
 
-##Dataset
+## Dataset
 - Koala sightings around Brisbane, QLD was retrieved from [Atlas of Living Australia](https://biocache.ala.org.au/occurrences/61c78472-0613-491d-a0ea-6c0528d7bf7f)
 - Twitter tweets dataset retrieved using the Twitter API (limited to 100 tweets per instance)
 
-##Libraries
+## Libraries
 - Folium: this library was utilisedin to easily visualisze data on an interactive leaflet map with markers indicating positions on spots of interests
 
-##Conclusions
+## Conclusions
 **Sightings analysis**
 - Based on the visualization of koala occurences from 2020 to the present above, it is clear that koalas can be found reliably around Brisbane to support a koala spotting tour. Areas that have a high rate of koala occurences that prove to be reliable locations for koala tours include:
   - Toohey Area
@@ -57,5 +57,5 @@ With the analysis, the business is also able to identify potential competitors i
   - There are alot of Retweets in the data and there are many data where they are retweets of 1 particular tweet
   - However, RTs are still kept in the analysis since RTs are ways that users can quickly share a tweet that they like and additionally, if they want to, add comments to it. This shows that user has interest in #koala.
 
-##Analysis Notebook
+## Analysis Notebook
 - It is suggested to view the notebook using [THIS LINK](https://nbviewer.org/github/marcusNGD/Koala-Sightings-and-Tweets/blob/main/Marcus_Koala_Dataset.ipynb) as GitHub only displays a preview of the notebook and is unable to load the mapping component.
